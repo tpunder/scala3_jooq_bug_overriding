@@ -1,3 +1,6 @@
+This is for https://github.com/lampepfl/dotty/issues/16844
+
+
 ```
 [info] welcome to sbt 1.9.6 (Eclipse Adoptium Java 17.0.3)
 [info] loading global plugins from /Users/tim/.sbt/1.0/plugins
